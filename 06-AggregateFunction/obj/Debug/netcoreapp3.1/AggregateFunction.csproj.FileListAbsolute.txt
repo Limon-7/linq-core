@@ -1,0 +1,11 @@
+E:\LINQ\AggregateFunction\bin\Debug\netcoreapp3.1\AggregateFunction.exe
+E:\LINQ\AggregateFunction\bin\Debug\netcoreapp3.1\AggregateFunction.deps.json
+E:\LINQ\AggregateFunction\bin\Debug\netcoreapp3.1\AggregateFunction.runtimeconfig.json
+E:\LINQ\AggregateFunction\bin\Debug\netcoreapp3.1\AggregateFunction.runtimeconfig.dev.json
+E:\LINQ\AggregateFunction\bin\Debug\netcoreapp3.1\AggregateFunction.dll
+E:\LINQ\AggregateFunction\bin\Debug\netcoreapp3.1\AggregateFunction.pdb
+E:\LINQ\AggregateFunction\obj\Debug\netcoreapp3.1\AggregateFunction.csprojAssemblyReference.cache
+E:\LINQ\AggregateFunction\obj\Debug\netcoreapp3.1\AggregateFunction.AssemblyInfoInputs.cache
+E:\LINQ\AggregateFunction\obj\Debug\netcoreapp3.1\AggregateFunction.AssemblyInfo.cs
+E:\LINQ\AggregateFunction\obj\Debug\netcoreapp3.1\AggregateFunction.dll
+E:\LINQ\AggregateFunction\obj\Debug\netcoreapp3.1\AggregateFunction.pdb

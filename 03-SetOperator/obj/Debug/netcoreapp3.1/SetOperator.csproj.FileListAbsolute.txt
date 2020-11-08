@@ -1,0 +1,11 @@
+E:\LINQ\SetOperator\bin\Debug\netcoreapp3.1\SetOperator.exe
+E:\LINQ\SetOperator\bin\Debug\netcoreapp3.1\SetOperator.deps.json
+E:\LINQ\SetOperator\bin\Debug\netcoreapp3.1\SetOperator.runtimeconfig.json
+E:\LINQ\SetOperator\bin\Debug\netcoreapp3.1\SetOperator.runtimeconfig.dev.json
+E:\LINQ\SetOperator\bin\Debug\netcoreapp3.1\SetOperator.dll
+E:\LINQ\SetOperator\bin\Debug\netcoreapp3.1\SetOperator.pdb
+E:\LINQ\SetOperator\obj\Debug\netcoreapp3.1\SetOperator.csprojAssemblyReference.cache
+E:\LINQ\SetOperator\obj\Debug\netcoreapp3.1\SetOperator.AssemblyInfoInputs.cache
+E:\LINQ\SetOperator\obj\Debug\netcoreapp3.1\SetOperator.AssemblyInfo.cs
+E:\LINQ\SetOperator\obj\Debug\netcoreapp3.1\SetOperator.dll
+E:\LINQ\SetOperator\obj\Debug\netcoreapp3.1\SetOperator.pdb

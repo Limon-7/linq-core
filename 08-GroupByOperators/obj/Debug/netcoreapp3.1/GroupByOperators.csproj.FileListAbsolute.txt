@@ -1,0 +1,11 @@
+E:\LINQ\GroupByOperators\bin\Debug\netcoreapp3.1\GroupByOperators.exe
+E:\LINQ\GroupByOperators\bin\Debug\netcoreapp3.1\GroupByOperators.deps.json
+E:\LINQ\GroupByOperators\bin\Debug\netcoreapp3.1\GroupByOperators.runtimeconfig.json
+E:\LINQ\GroupByOperators\bin\Debug\netcoreapp3.1\GroupByOperators.runtimeconfig.dev.json
+E:\LINQ\GroupByOperators\bin\Debug\netcoreapp3.1\GroupByOperators.dll
+E:\LINQ\GroupByOperators\bin\Debug\netcoreapp3.1\GroupByOperators.pdb
+E:\LINQ\GroupByOperators\obj\Debug\netcoreapp3.1\GroupByOperators.csprojAssemblyReference.cache
+E:\LINQ\GroupByOperators\obj\Debug\netcoreapp3.1\GroupByOperators.AssemblyInfoInputs.cache
+E:\LINQ\GroupByOperators\obj\Debug\netcoreapp3.1\GroupByOperators.AssemblyInfo.cs
+E:\LINQ\GroupByOperators\obj\Debug\netcoreapp3.1\GroupByOperators.dll
+E:\LINQ\GroupByOperators\obj\Debug\netcoreapp3.1\GroupByOperators.pdb

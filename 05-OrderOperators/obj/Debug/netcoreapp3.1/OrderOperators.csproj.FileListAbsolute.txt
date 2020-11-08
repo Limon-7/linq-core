@@ -1,0 +1,11 @@
+E:\LINQ\OrderOperators\bin\Debug\netcoreapp3.1\OrderOperators.exe
+E:\LINQ\OrderOperators\bin\Debug\netcoreapp3.1\OrderOperators.deps.json
+E:\LINQ\OrderOperators\bin\Debug\netcoreapp3.1\OrderOperators.runtimeconfig.json
+E:\LINQ\OrderOperators\bin\Debug\netcoreapp3.1\OrderOperators.runtimeconfig.dev.json
+E:\LINQ\OrderOperators\bin\Debug\netcoreapp3.1\OrderOperators.dll
+E:\LINQ\OrderOperators\bin\Debug\netcoreapp3.1\OrderOperators.pdb
+E:\LINQ\OrderOperators\obj\Debug\netcoreapp3.1\OrderOperators.csprojAssemblyReference.cache
+E:\LINQ\OrderOperators\obj\Debug\netcoreapp3.1\OrderOperators.AssemblyInfoInputs.cache
+E:\LINQ\OrderOperators\obj\Debug\netcoreapp3.1\OrderOperators.AssemblyInfo.cs
+E:\LINQ\OrderOperators\obj\Debug\netcoreapp3.1\OrderOperators.dll
+E:\LINQ\OrderOperators\obj\Debug\netcoreapp3.1\OrderOperators.pdb

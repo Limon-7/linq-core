@@ -1,0 +1,11 @@
+E:\LINQ\QuantifierOperators\bin\Debug\netcoreapp3.1\QuantifierOperators.exe
+E:\LINQ\QuantifierOperators\bin\Debug\netcoreapp3.1\QuantifierOperators.deps.json
+E:\LINQ\QuantifierOperators\bin\Debug\netcoreapp3.1\QuantifierOperators.runtimeconfig.json
+E:\LINQ\QuantifierOperators\bin\Debug\netcoreapp3.1\QuantifierOperators.runtimeconfig.dev.json
+E:\LINQ\QuantifierOperators\bin\Debug\netcoreapp3.1\QuantifierOperators.dll
+E:\LINQ\QuantifierOperators\bin\Debug\netcoreapp3.1\QuantifierOperators.pdb
+E:\LINQ\QuantifierOperators\obj\Debug\netcoreapp3.1\QuantifierOperators.csprojAssemblyReference.cache
+E:\LINQ\QuantifierOperators\obj\Debug\netcoreapp3.1\QuantifierOperators.AssemblyInfoInputs.cache
+E:\LINQ\QuantifierOperators\obj\Debug\netcoreapp3.1\QuantifierOperators.AssemblyInfo.cs
+E:\LINQ\QuantifierOperators\obj\Debug\netcoreapp3.1\QuantifierOperators.dll
+E:\LINQ\QuantifierOperators\obj\Debug\netcoreapp3.1\QuantifierOperators.pdb
